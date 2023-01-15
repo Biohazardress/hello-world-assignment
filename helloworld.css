@@ -1,2 +1,8 @@
-body {color: #b6064f; 
+body {background: #ec8eb5; 
     font-family: Veranda,Arial, Sans-Serif;}
+    
+header {font-size: 3em;}
+.center {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;}
